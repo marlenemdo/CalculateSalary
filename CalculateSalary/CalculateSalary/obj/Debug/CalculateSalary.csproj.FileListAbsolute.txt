@@ -1,0 +1,8 @@
+C:\Users\mamon\source\repos\CalculateSalary\CalculateSalary\bin\Debug\CalculateSalary.exe.config
+C:\Users\mamon\source\repos\CalculateSalary\CalculateSalary\bin\Debug\CalculateSalary.exe
+C:\Users\mamon\source\repos\CalculateSalary\CalculateSalary\bin\Debug\CalculateSalary.pdb
+C:\Users\mamon\source\repos\CalculateSalary\CalculateSalary\obj\Debug\CalculateSalary.csproj.AssemblyReference.cache
+C:\Users\mamon\source\repos\CalculateSalary\CalculateSalary\obj\Debug\CalculateSalary.csproj.SuggestedBindingRedirects.cache
+C:\Users\mamon\source\repos\CalculateSalary\CalculateSalary\obj\Debug\CalculateSalary.csproj.CoreCompileInputs.cache
+C:\Users\mamon\source\repos\CalculateSalary\CalculateSalary\obj\Debug\CalculateSalary.exe
+C:\Users\mamon\source\repos\CalculateSalary\CalculateSalary\obj\Debug\CalculateSalary.pdb
